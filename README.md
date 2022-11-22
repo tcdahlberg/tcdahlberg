@@ -1,6 +1,9 @@
-### Hi there 👋
-
-<a rel="me" href="https://mastodon.world/@tcdahlberg">Mastodon</a>
+### Hi there 👋! I'm...
+- Senior Software Engineer at the <a href="https://stthomas.edu">Unveristy of St. Thomas</a> in Minnesota
+- Lead developer for the Salesforce native event registration solution the <a href="https://sfdo-community-sprints.github.io/summit-events-app-documentation/">Summit Events App</a>
+- Find me on <a rel="me" href="https://mastodon.world/@tcdahlberg">Mastodon</a>
+- Find me on <a href="https://www.linkedin.com/in/thaddaeus/">LinkedIn</a>
+- Find me on <a href="https://trailblazer.me/id/tdahlberg">Salesforce Trailblazer Community</a>
 
 <!--
 **tcdahlberg/tcdahlberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
