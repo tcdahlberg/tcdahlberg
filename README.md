@@ -1,4 +1,4 @@
-### Hi there 👋! <img width="300" height="300" alt="2026_effmembershipbadge-member-1" src="https://github.com/user-attachments/assets/ed564551-bb71-480c-9baf-2df5952a25ce" style="float:left; width:20%; />
+### Hi there 👋!
 
 
 - I'm a Principal Software Engineer at the <a href="https://stthomas.edu">Unveristy of St. Thomas</a> in Minnesota
@@ -7,3 +7,5 @@
 - 🔗 <a href="https://www.linkedin.com/in/thaddaeus/">LinkedIn</a>
 - ☁️ <a href="https://trailblazer.me/id/tdahlberg">Salesforce Trailblazer Community</a>
 - 🦋 <a href="https://bsky.app/profile/tcdahlberg.bsky.social">@tcdahlberg.bsky.social</a>
+
+<a href="https://eff.org" target="_blank"><img src="https://github.com/user-attachments/assets/ed564551-bb71-480c-9baf-2df5952a25ce" width="100" height="100"></a>
