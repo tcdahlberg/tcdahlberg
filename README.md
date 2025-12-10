@@ -9,3 +9,4 @@
 - 🦋 <a href="https://bsky.app/profile/tcdahlberg.bsky.social">@tcdahlberg.bsky.social</a>
 
 <a href="https://eff.org" target="_blank"><img src="https://github.com/user-attachments/assets/ed564551-bb71-480c-9baf-2df5952a25ce" width="100" height="100"></a>
+<a href="https://sfdo-community-sprints.github.io/summit-events-app-documentation/" target="_blank"><img width="100" height="100" alt="Summit-Events-App-Badge---2023" src="https://github.com/user-attachments/assets/5a6df051-bc0c-46cd-ac97-89a61d3bbfde" /></a>
